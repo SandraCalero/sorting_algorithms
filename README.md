@@ -356,6 +356,7 @@ alex@/tmp/sort$
 ### 3. Quick sort
 
 _mandatory_
+
 [Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
