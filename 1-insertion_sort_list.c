@@ -15,7 +15,7 @@ void insertion_sort_list(listint_t **list)
 
 	int flag = 0;
 
-	if (*list == NULL || (*list)->next == NULL)
+	if (list == NULL || (*list) == NULL || (*list)->next == NULL)
 		return;
 	for (position = *list ; position != NULL ; position = position->next)
 	{
